@@ -1,0 +1,6 @@
+{
+  "name": "AuraOS",
+  "description": "Enterprise AI operating layer connecting CRM, ERP, HR, Finance, and Marketing into unified autonomous intelligence by Innogenix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
